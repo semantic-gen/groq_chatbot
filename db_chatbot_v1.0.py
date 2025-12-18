@@ -153,8 +153,6 @@ Once you have collected all mandatory information (or user requests recommendati
 }
 ```
 
-Present this entity mapping to the user and ask: "Here's what I've understood about your environment. Does this look correct? Would you like to modify anything before I provide recommendations?"
-
 ## AFTER ENTITY MAPPING CONFIRMATION:
 Once the entity mapping is confirmed, provide:
 
